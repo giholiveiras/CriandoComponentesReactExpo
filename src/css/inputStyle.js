@@ -14,7 +14,7 @@ export const styles = StyleSheet.create({
         borderColor: '#ccc',
         borderRadius: 5,
         padding: 10,
-        marginVertical:10,
+        marginVertical:2,
     }
   });
   
